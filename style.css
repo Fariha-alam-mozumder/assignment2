@@ -532,6 +532,8 @@ color: aliceblue;
       display: grid;
       grid-template-columns: repeat(1,1fr);
       grid-row-gap:0px ;
+      margin-left: 140px;
+
     }
     .secondheading{
       margin-top: 350px;
@@ -639,10 +641,10 @@ color: aliceblue;
     
     }
 
-    @media(min-width:400px)and(max-width:768px){
+    @media(max-width:768px){
         .thirdbigdiv{
             width: 633px;
-            margin-left: 18px;
+            margin-left: 0px;
             margin-top: 45px;
             height: 320px;
         }
@@ -677,6 +679,10 @@ color: aliceblue;
       font-weight: 600px;
       font-size: 36px;
       width: 250px;
+   }
+   .thirdheading p{
+      width:270px;
+    
    }
    .btn3{
     margin-top: 55px;
@@ -754,168 +760,7 @@ justify-content: center;
 margin-left: 400px;
 
 }
-.division2{
-  width: Fill (1,060px);
-  height: Fill (201.5px);
-  gap: 0px;
-  opacity: 0px;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin-left: 400px;
-  margin-top: -8px;
-  
-  }
-.first img{
-  width: 280px;
-  height: 190px;
-  left: -16px;
-  gap: 0px;
-  opacity: 0px;
-  background: rgba(6, 255, 210, 0.5);
 
-  
-}
-.second img{
-  width: 460px;
-height: 190px;
-top: -44px;
-gap: 0px;
-opacity: 0px;
-
-}
-
-.third img{
-  width: 280px;
-height: 190px;
-top: -6px;
-left: -42px;
-gap: 0px;
-opacity: 0px;
-
-}
-
-.fourth img{
-  width: 412px;
-height: 190px;
-top: -13.5px;
-left: -1px;
-gap: 0px;
-
-overflow: hidden;
-background: rgba(0, 0, 0, 0.5);
-opacity: 1;
-
-}
-
-.fifth img{
-  width: 260px;
-height: 190px;
-top: -7.5px;
-left: -60px;
-gap: 0px;
-
-background-image: linear-gradient(0.00deg,rgba(66, 255, 0, 0.3) -19.5%,rgba(66, 255, 0, 0.3) 100%),url(images/exercise4.png);
-}
-
-
-.sixth img{
-  width: 348px;
-height: 190px;
-top: -24.5px;
-left: -15px;
-gap: 0px;
-opacity: 0px;
-background: rgba(0, 71, 255, 0.3);
-
-}
-
-@media(min-width:400px)and(max-width:768px){
-  .fourthheading{
-    margin-left: 40px;
-  }
-  .first img{
-    width:220px;
-    height: 170px;
-    position: 0%;
-    margin-left: -180px;
-  }
-  .second img{
-    width:320px;
-    height: 170px;
-    position: 0%;
-    margin-left: -20px;
-  }
-  .third img{
-    width:210px;
-    height: 170px;
-    position: 0%;
-  }
-  .fourth img{
-    width:297px;
-    height: 170px;
-    position: 0%;
-    margin-left: -184px;
-  }
-  .fifth img{
-    width:210px;
-    height: 170px;
-    position: 0%;
-  }
-  .sixth img{
-    width:225px;
-    height: 170px;
-    position: 0%;
-  }
-  
-  
-  
-}
-@media(max-width:400px){
-  .fourthheading{
-    margin-left: 60px;
-    width:250px;
-   }
-   .fourthheading p{
-    width:300px;
-    margin-left: 5px;
-   }
-   .sixth img{
-    visibility: hidden;
-  }
-  .third img{
-    visibility: hidden;
-  }
-  .first img{
-    width:167px;
-    height: 130px;
-    position: 0%;
-    margin-left: -120px;
-  }
-  .second img{
-    width:210px;
-    height: 130px;
-    position: 0%;
-    margin-left: 0px;
-  }
-  .fourth img{
-    width:210px;
-    height: 130px;
-    position: 0%;
-    margin-left:-107px;
-    margin-top: -36px;
-  }
-  .fifth img{
-    width:167px;
-    height: 130px;
-    position: 0%;
-    margin-left: 0px;
-    margin-top: -36px;
-  }
-  
-  
-  
-}
 
 
 .fifthheading{
@@ -1238,7 +1083,7 @@ margin-top: -10px;
 
 }
 
- @media(min-width:400px)and(max-width:768px){
+ @media(max-width:768px){
   .fifthheading h1{
     margin-left: -400px;
     justify-content: left;
@@ -1249,19 +1094,23 @@ margin-top: -10px;
   }
   .BMI{
     margin-top: 30px;
-    display: flex;
-   flex-direction: column;
-   gap:0px;
+  display: flex;
+  flex-direction: column;
    height: 750px;
    width:750px;
+   margin-left: 0px;
   }
   #tabledata{
     margin-top: -10px;
-    margin-left: -270px;
+    margin-left: -170px;
   }
   .form{
     margin-top: -20px;
-    margin-left: -30px;
+    margin-left: 70px;
+  }
+  .formheading p{
+    width:520px;
+    margin-left: -60px;
   }
   #height{
     width:200px;
@@ -1299,15 +1148,21 @@ margin-top: -10px;
   }
   .BMI{
     width:390px;
+    height: 789px;
     margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
 
   }
   #tabledata{
     margin-left: 47px;
-    margin-top: 0px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
   }
   .tableheading h4{
-    margin-top: 40px;
+    margin-top: 10px;
     margin-left: -19px;
     font-weight: 900;
 
@@ -1731,7 +1586,7 @@ margin-left: 10px;
 @media(max-width:400px)
 {
   .trainer{
-    margin-left: 95px;
+    margin-left:100px;
     width:230px;
     height: 1000px;
     display: flex;
@@ -1768,12 +1623,12 @@ margin-left: 10px;
     
   }
   .beforelastheading p{
-    margin-left: 50px;
+    margin-left: 40px;
     width:280px;
     
   }
   .beforelastheading h1{
-    margin-left: 280px;
+    margin-left: 250px;
     font-size: 30px;
     
   }
@@ -1937,7 +1792,7 @@ margin-top: 25px;
 
 }
 
-@media(min-width:400px)and(max-width:768px){
+@media(max-width:768px){
   .last{
     width:760px;
     height: 690px;
@@ -1975,7 +1830,7 @@ margin-top: 25px;
   .last{
     width:390px;
     height: 850px;
-    margin-left: 40px;
+    margin-left: 35px;
   }
   .moon{
     display: flex;
@@ -1990,7 +1845,7 @@ margin-top: 25px;
    
   }
   .line{
-    width:550px;
+    width:376px;
     margin-left: 0px;
     margin-top: 20px;
   }
