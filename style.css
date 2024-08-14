@@ -1103,3 +1103,377 @@ margin-top: -10px;
   }
 
  }
+
+ .beforelast{
+  width: Fixed (1,060px);
+height: Hug (782px);
+gap: 58px;
+opacity: 0px;
+
+}
+
+.beforelastheading{
+  width: Hug (671px);
+  height: Hug (120px);
+  gap: 14px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 300px;
+  margin-top: 90px;
+  
+}
+.beforelastheading h1{
+  width: 453px;
+height: 58px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+line-height: 57.6px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-left: 130px;
+
+
+}
+.beforelastheading p{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+width: 671px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+color: rgba(255, 255, 255, 0.5);
+margin-top: -45px;
+text-align: center;
+margin-left: 80px;
+
+}
+.trainer{
+  width:830px;
+height: 492px;
+padding: 20px ;
+gap: 10px;
+border-radius: 18px;
+opacity: 0px;
+background: rgba(255, 255, 255, 0.1);
+display:flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+margin-left: 300px;
+margin-top: 25px;
+}
+.firstone{
+  width: 326.67px;
+height:  564px;
+gap: 10px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-left: 0px;
+
+
+}
+.one{
+  width: 266.67px;
+height: 242px;
+gap: 0px;
+border-radius: 18px;
+background-image: linear-gradient(0deg, rgb(16, 16, 16) ,rgba(0, 0, 0, 0.2) 20%),url(" images/trainer1.png");
+background-position: 0%;
+background-size: cover;
+pointer-events: none;
+}
+
+.one p{
+  width: 117px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-top: 180px;
+margin-left: 10px;
+
+}
+
+#po{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+width: 47px;
+height: 17px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.two{
+  width: 266.67px;
+  height: 242px;
+  gap: 0px;
+  border-radius: 18px;
+  opacity: 0px;
+background-image: linear-gradient(0deg, rgb(16, 16, 16) ,rgba(0, 0, 0, 0.2) 20%),url(" images/trainer4.png");
+background-position: 0%;
+background-size: cover;
+pointer-events: none;
+}
+
+.two p{
+  width: 187px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-top: 180px;
+margin-left: 10px;
+
+}
+
+#po{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+width: 47px;
+height: 17px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
+.secondone{
+  width: Fill (326.67px)px;
+height: Hug (564px)px;
+gap: 10px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.three{
+  width: 266.67px;
+  height: 242px;
+gap: 0px;
+border-radius: 18px;
+opacity: 0px;
+background-image: linear-gradient(0deg, rgb(16, 16, 16) ,rgba(0, 0, 0, 0.2) 20%),url(" images/trainer2.png");
+background-position: 0%;
+background-size: cover;
+pointer-events: none;
+
+}
+.three p{
+  width: 237px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-top: 180px;
+margin-left: 10px;
+
+}
+
+#po{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+width: 47px;
+height: 17px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.four{
+  width: 266.67px;
+  height: 242px;
+  gap: 0px;
+  border-radius: 18px;
+  opacity: 0px;
+  background-image: linear-gradient(0deg, rgb(16, 16, 16) ,rgba(0, 0, 0, 0.2) 20%),url(" images/trainer5.png");
+background-position: 0%;
+background-size: cover;
+pointer-events: none;
+}
+.four p{
+  width: 187px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-top: 180px;
+margin-left: 10px;
+
+}
+
+#po{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+width: 47px;
+height: 17px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.thirdone{
+  width: Fill (326.67px)px;
+height: Hug (564px)px;
+gap: 10px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.five{
+  width: 266.67px;
+  height: 242px;
+gap: 0px;
+border-radius: 18px;
+opacity: 0px;
+background-image: linear-gradient(0deg, rgb(16, 16, 16) ,rgba(0, 0, 0, 0.2) 20%),url(" images/trainer3.png");
+background-position: 0%;
+background-size: cover;
+pointer-events: none;
+
+}
+.five p{
+  width: 187px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-top: 180px;
+margin-left: 10px;
+
+}
+
+#po{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+width: 47px;
+height: 17px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+.six{
+  width: 266.67px;
+  height: 242px;
+  gap: 0px;
+  border-radius: 18px;
+  opacity: 0px;
+  background-image: linear-gradient(0deg, rgb(16, 16, 16) ,rgba(0, 0, 0, 0.2) 20%),url(" images/trainer6.png");
+background-position: 0%;
+background-size: cover;
+pointer-events: none;
+}
+.six p{
+  width: 180px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-top: 180px;
+margin-left: 10px;
+
+}
+
+@media(max-width:768px)
+{
+  .trainer{
+    margin-left: 0px;
+    width:720px;
+  }
+  .one{
+    width:230px;
+    height: 240px;
+  }
+  .two{
+    width:230px;
+    height: 240px;
+  }
+  .three{
+    width:230px;
+    height: 240px;
+  }
+  .four{
+    width:230px;
+    height: 240px;
+  }
+  .five{
+    width:230px;
+    height: 240px;
+  }
+  .six{
+      width:230px;
+      height: 240px;
+    
+  }
+  .beforelastheading{
+    margin-left: 150px;
+  }
+
+}
