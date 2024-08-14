@@ -737,3 +737,369 @@ background: rgba(0, 71, 255, 0.3);
   
   
 }
+
+.fifthheading{
+  width: Hug (671px);
+  height: Hug (120px);
+  gap: 14px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 300px;
+  margin-top: 100px;
+  
+}
+.fifthheading h1{
+  width: 353px;
+height: 58px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 48px;
+font-weight: 900;
+line-height: 57.6px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+}
+.fifthheading p{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+width: 671px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+color: rgba(255, 255, 255, 0.5);
+margin-top: -40px;
+
+}
+.BMI{
+  width: 1440px;
+height: 450px;
+gap: 0px;
+opacity: 0px;
+background: rgba(34, 34, 34, 1);
+display: flex;
+flex-direction: row;
+gap: 30px;
+justify-content: space-evenly;
+align-items: center;
+
+}
+.table{
+  width: 310px;
+  border-collapse: collapse;
+top: 138px;
+left: 189px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid rgba(255, 255, 255, 0.1);
+margin-left: 100px;
+margin-top: -20px;
+
+
+
+}
+.chart th{
+  font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.2px;
+text-align: left;
+color:rgba(255, 255, 255, 1);
+border: 1px solid rgba(255, 255, 255, 0.1);
+height: 30px;
+width: 310px;
+text-align: left;
+border-collapse:collapse;
+padding: 5px;
+padding-left: 15px;
+
+}
+
+.chart td{
+  font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.8px;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+border: 1px solid rgba(255, 255, 255, 0.1);
+height: 30px;
+width: 310px;
+padding: 5px;
+padding-left: 15px;
+text-align: left;
+border-collapse:collapse;
+
+
+}
+.tableheading{
+  width: 443px;
+height: 34px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 28px;
+font-weight: 900;
+line-height: 33.6px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-bottom: 60px;
+margin-left: 110px;
+margin-top: -50px;
+
+}
+.tabledata{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+ 
+  
+}
+.form{
+  width: Fixed (577px);
+height: Hug (386px);
+top: 29px;
+left: 674px;
+gap: 34px;
+opacity: 0px;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.formheading{
+  width: Fill (577px);
+height: Hug (96px);
+gap: 14px;
+opacity: 0px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+.formheading h4{
+  width: 443px;
+height: 34px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 28px;
+font-weight: 900;
+line-height: 83.6px;
+margin-left: -150px;
+color:rgba(255, 255, 255, 1);
+margin-top: 0px;
+
+}
+.formheading p{
+  width: 577px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+color: rgba(255, 255, 255, 0.5);
+margin-top: 0px;
+margin-left: -25px;
+
+
+}
+.formdata{
+  width: Fill (577px);
+height: Hug (168px);
+gap: 12px;
+opacity: 0px;
+margin-top: -30px;
+
+}
+.for1{
+  width: Fill (577px);
+height: Hug (48px);
+gap: 12px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+margin-left: -170px;
+
+
+}
+#height{
+  font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+color: rgba(255, 255, 255, 0.6);
+width: 140.5px;
+height: 18px;
+padding: 12px 40px 12px 20px;
+gap: 10px;
+border-radius: 8px;
+opacity: 0px;
+background-color: rgba(255, 255, 255, 0.1);
+
+
+}
+#weight{
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.6);
+  width: 160.5px;
+  height: 18px;
+  padding: 12px 40px 12px 20px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+#Age{
+  font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+color: rgba(255, 255, 255, 0.6);
+width: 140.5px;
+height: 18px;
+padding: 12px 40px 12px 20px;
+gap: 10px;
+border-radius: 8px;
+opacity: 0px;
+background-color: rgba(255, 255, 255, 0.1);
+margin-top: 10px;
+margin-left: -12px;
+
+
+}
+#Sex{
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.6);
+  width: 160.5px;
+  height: 18px;
+  padding: 12px 40px 12px 20px;
+
+  border-radius: 8px;
+  opacity: 0px;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-top: 10px;
+}
+.for2{
+  width: Fill (577px);
+height: Hug (48px);
+gap: 7px;
+opacity: 0px;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+margin-left: -160px;
+text-align: center;
+
+
+}
+.activity{
+  width: Fill (577px);
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin-left: -170px;
+  color: rgba(255, 255, 255, 0.6);
+  border-radius: 8px;
+  margin-top: 10px;
+  padding: 12px 40px 12px 20px;
+  text-align: left;
+  font-weight: 400;
+
+}
+.btn22{
+  width: 124px;
+height: 26px;
+padding: 12px 40px 10px 40px;
+gap: 10px;
+border-radius: 42px;
+opacity: 0px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+text-align: center;
+background: rgba(230, 83, 60, 1);
+color: white;
+margin-left: -400px;
+margin-top: -10px;
+
+}
+
+ @media(max-width:768px){
+  .fifthheading h1{
+    margin-left: -400px;
+    justify-content: left;
+  }
+  .fifthheading p{
+    margin-left: -70px;
+    justify-content: left;
+  }
+  .BMI{
+    margin-top: 30px;
+    display: flex;
+   flex-direction: column;
+   gap:0px;
+   height: 750px;
+   width:750px;
+  }
+  #tabledata{
+    margin-top: -10px;
+    margin-left: -270px;
+  }
+  .form{
+    margin-top: -20px;
+    margin-left: -30px;
+  }
+  #height{
+    width:200px;
+    margin-left: 100px;
+  }
+  #weight{
+    width: 200px;
+  }
+  #Age{
+    width:200px;
+    margin-left: 90px;
+  }
+  #Sex{
+    width: 200px;
+  }
+  .activity{
+    width:475px;
+    margin-left: -70px;
+  }
+
+ }
