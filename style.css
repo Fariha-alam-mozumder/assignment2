@@ -275,7 +275,7 @@ color: aliceblue;
  
 
 }
-@media (min-width:400px)and (max-width:768px) {
+@media (max-width:768px) {
     .navbar{
     
         display:flex;
@@ -506,7 +506,7 @@ color: aliceblue;
   
   }
 
-  @media(min-width:400px) and (max-width:768px)
+  @media (max-width:768px)
   {
     .multiphotos{
         display: grid;
@@ -2011,4 +2011,43 @@ margin-top: 25px;
   background: rgba(0, 71, 255, 0.3);
   
   }
-  
+
+  @media(max-width:400px)
+  {
+    .fourthheading h1{
+      margin-left: -156px;
+      width:370px;
+      line-height: 56px;
+    }
+    .fourthheading p{
+      margin-left: -156px;
+      width:360px;
+      line-height: 24px;
+      margin-top: 70px;
+    }
+    .images{
+      width:360px;
+      margin-top: 0px;
+    }
+    .first img{
+      width:190px;
+      margin-left: -324px;
+    }
+    .second img{
+      display:none;
+    }
+    .third img{
+      width:180px;
+      margin-left: -140px;
+    }
+    .fourth img{
+      display: none;
+    }
+    .fifth img{
+      display: none;
+    }
+    .sixth img{
+      width:365px;
+      margin-left: -324px;
+    }
+  }
